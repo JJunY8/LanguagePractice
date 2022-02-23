@@ -1,0 +1,15 @@
+D:\GitData\LanguagePractice\C#Prac\bin\Debug\net6.0\C#Prac.exe
+D:\GitData\LanguagePractice\C#Prac\bin\Debug\net6.0\C#Prac.deps.json
+D:\GitData\LanguagePractice\C#Prac\bin\Debug\net6.0\C#Prac.runtimeconfig.json
+D:\GitData\LanguagePractice\C#Prac\bin\Debug\net6.0\C#Prac.dll
+D:\GitData\LanguagePractice\C#Prac\bin\Debug\net6.0\C#Prac.pdb
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\C#Prac.csproj.AssemblyReference.cache
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\C#Prac.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\C#Prac.AssemblyInfoInputs.cache
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\C#Prac.AssemblyInfo.cs
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\C#Prac.csproj.CoreCompileInputs.cache
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\C#Prac.dll
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\refint\C#Prac.dll
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\C#Prac.pdb
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\C#Prac.genruntimeconfig.cache
+D:\GitData\LanguagePractice\C#Prac\obj\Debug\net6.0\ref\C#Prac.dll
